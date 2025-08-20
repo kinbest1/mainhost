@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(232, 184, 9);
+
+    margin-top: 25%;
+}
+.about-image{
+    width: 250px;
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.about-div{
+    visibility: visible;
+}
